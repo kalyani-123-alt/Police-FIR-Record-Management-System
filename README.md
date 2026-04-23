@@ -9,9 +9,13 @@ This project helps improve data accuracy, accessibility, transparency, and opera
 🎯 Objectives
 
 Digitize FIR registration and record management
+
 Reduce paperwork and manual errors
+
 Enable quick search and retrieval of FIR records
+
 Improve data security and access control
+
 Support efficient case tracking and reporting
 
 ✨ Key Features
@@ -28,7 +32,6 @@ Support efficient case tracking and reporting
 🧾 FIR Data Fields
 
 The system captures essential FIR details such as:
-
 FIR ID
 Complainant Name
 Contact Details
