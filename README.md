@@ -7,6 +7,7 @@ The Police FIR Record Management System is a digital solution designed to effici
 This project helps improve data accuracy, accessibility, transparency, and operational efficiency in law enforcement agencies.
 
 🎯 Objectives
+
 Digitize FIR registration and record management
 Reduce paperwork and manual errors
 Enable quick search and retrieval of FIR records
@@ -14,6 +15,7 @@ Improve data security and access control
 Support efficient case tracking and reporting
 
 ✨ Key Features
+
 🔐 Secure Login System (Admin / Police Staff)
 📝 FIR Registration Form
 🔍 Search & Filter FIR Records
@@ -74,10 +76,12 @@ pip install -r requirements.txt
 python app.py
 
 🔑 Default Login Credentials
+
 Username: admin  
 Password: admin123
 
 📸 Screenshots (Add Images Here)
+
 Login Page
 FIR Registration Form
 Dashboard
@@ -85,6 +89,8 @@ FIR Records List
 Search Functionality
 
 📈 Benefits
+
+
 Improves efficiency of police operations
 Reduces manual paperwork
 Ensures better record management
@@ -92,6 +98,8 @@ Enhances transparency and accountability
 Provides quick access to case details
 
 🔮 Future Enhancements
+
+
 Integration with national crime databases
 Mobile application for field officers
 Biometric authentication
