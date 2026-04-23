@@ -21,18 +21,26 @@ Support efficient case tracking and reporting
 ✨ Key Features
 
 🔐 Secure Login System (Admin / Police Staff)
+
 📝 FIR Registration Form
-🔍 Search & Filter FIR Records
-📂 Case Tracking & Status Updates
+
+🔍 Search & Filter FIR Records 
+
+📂 Case Tracking & Status Updates 
+
 📊 Dashboard for FIR Statistics
+
 🗂️ Organized Record Storage
+
 📄 Report Generation
+
 📱 User-friendly Interface
 
 🧾 FIR Data Fields
 
 The system captures essential FIR details such as:
-FIR ID
+
+FIR ID 
 Complainant Name
 Contact Details
 Incident Date & Time
