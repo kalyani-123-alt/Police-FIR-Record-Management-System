@@ -90,20 +90,26 @@ Search Functionality
 
 📈 Benefits
 
-
 Improves efficiency of police operations
+
 Reduces manual paperwork
+
 Ensures better record management
+
 Enhances transparency and accountability
+
 Provides quick access to case details
 
 🔮 Future Enhancements
 
-
 Integration with national crime databases
+
 Mobile application for field officers
+
 Biometric authentication
+
 AI-based crime analysis
+
 Real-time notifications and alerts
 
 ⚠️ Disclaimer
